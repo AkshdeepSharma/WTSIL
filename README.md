@@ -29,9 +29,9 @@ destinations = "&destinations="
 
 **From Twilio. Phone1 = your phone number, phone2 = phone number from Twilio service**
 
-phone1 = ""
+phone1 = "+"
 
-phone2 = ""
+phone2 = "+"
 
 --
 
